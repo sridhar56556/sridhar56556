@@ -36,6 +36,20 @@ I'm **Konda Sridhar** — a passionate developer who loves building secure backe
 
 ---
 
+### 🌐 My Portfolio
+
+<div align="center">
+
+[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=0:071020,30:0a1628,60:0e75b6,100:2e9fd6&height=180&section=header&text=My%20Portfolio&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Konda%20Sridhar%20%7C%20Java%20Backend%20%C2%B7%20Full-Stack%20Learner%20%C2%B7%20QA%20Enthusiast&descAlignY=68&descSize=14&animation=fadeIn&fontAlign=50&descAlign=50)](https://sridhar56556.github.io/My_Portfolio/)
+
+[![Visit Live Portfolio](https://img.shields.io/badge/🌐_Visit_My_Live_Portfolio-Click_Here_→-0e75b6?style=for-the-badge&logoColor=white)](https://sridhar56556.github.io/My_Portfolio/)
+
+**[🚀 sridhar56556.github.io/My_Portfolio](https://sridhar56556.github.io/My_Portfolio/)**
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -151,6 +165,7 @@ I'm **Konda Sridhar** — a passionate developer who loves building secure backe
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kondasridhar)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sridhar56556)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sridharkonda553@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0E75B6?style=for-the-badge&logo=githubpages&logoColor=white)](https://sridhar56556.github.io/My_Portfolio/)
 
 ---
 
