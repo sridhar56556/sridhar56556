@@ -1,3 +1,10 @@
+```html
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="sridhar56556's GitHub profile" src="dark_mode.svg" />
+</picture>
+```
 
 <h1>🚀 Hey, I'm Konda Sridhar 👋</h1>
 
