@@ -1,8 +1,10 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg" />
-  <img alt="sridhar56556's GitHub profile" src="./dark_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/sridhar56556?theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/sridhar56556?theme=light" />
+  <img alt="sridhar56556's GitHub profile" src="https://gh.crafter.run/sridhar56556?theme=dark" width="100%" />
 </picture>
+
+
 
 <h1>🚀 Hey, I'm Konda Sridhar 👋</h1>
 
