@@ -6,6 +6,9 @@
 
 
 
+
+
+
 <h1>🚀 Hey, I'm Konda Sridhar 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=50&lines=Java+Backend+Developer+%E2%98%95;Full-Stack+Developer+%F0%9F%9A%80;QA+%26+Testing+Enthusiast+%F0%9F%A7%AA;Clean+Code+%7C+Secure+Systems+%F0%9F%94%90)](https://git.io/typing-svg)
